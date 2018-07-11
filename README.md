@@ -10,6 +10,7 @@ Simple memory game built with React and ES6.
 - Run 'npm start'
 - Project will be up and running locally
 
+## Instructions for game play
 - Homepage displays 'Easy' or 'Hard' buttons for difficulty
 - A click to either button will randomize & display the cards
 - Make first selection
